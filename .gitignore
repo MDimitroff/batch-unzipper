@@ -1,4 +1,8 @@
-.vscode/
-.vs/
-BatchUnzipper/bin/
-BatchUnzipper/obj/
+.vs
+.vscode
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
